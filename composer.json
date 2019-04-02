@@ -16,7 +16,7 @@
         "guzzlehttp/guzzle": "^6.0",
         "respect/validation":"~1.1",
         "symfony/dom-crawler": "~2.5.7",
-        "symfony/css-selector": "~2.5.7",
+        "symfony/css-selector": "~4.3.x-dev",
         "symfony/options-resolver": "^3.0",
         "tightenco/collect":"^5.4",
         "monolog/monolog":"^1.23",
